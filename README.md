@@ -41,4 +41,4 @@ ID | Content | emotion_label | emotion_prob
 
 Here is a picture of the visualisation
 
-![E reputation Orange]("ereputation.png")
+![E reputation Orange](/ereputation.png)
