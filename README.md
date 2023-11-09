@@ -29,6 +29,8 @@ python sentiment_analysis.py
 The following shows an example output of the sentiment analysis results:
 
 
+
+
 ID | Content | emotion_label | emotion_prob
 ---|--- |--- |---
 1 | Après séparation, grosse galère pour clôturer le compte joint.On m'a demandé trois fois les mêmes documents. Au final, il faut que je demande la clôture, sur un seul document manuscrit, avec la demande de madame, la copie de sa pièce d'identité. Alors qu'elle l'a fait de son côté. Et pour raison privée, je n'ai plus ses coordonnées et il n'est pas question que je la recontacte. C'est totalement surréaliste ! Leurs procedures sont incroyables. Très déçu ! | très négatif | 97.0 %
@@ -39,3 +41,4 @@ ID | Content | emotion_label | emotion_prob
 
 Here is a picture of the visualisation
 
+! [E reputation Orange] ("e reputation.png")
